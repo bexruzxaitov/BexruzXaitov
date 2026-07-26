@@ -5,16 +5,16 @@
 </p>
 
 ### 🚀 The Vibe
-I am a **Vibe Coder** who leverages the power of AI to transform ideas into working software at lightning speed. Instead of getting bogged down by boilerplate code, I focus on the big picture, software architecture, and delivering cool products.
+I am a **Vibe Coder & Full-Stack JS Developer** who leverages the power of AI and modern JavaScript ecosystems to transform ideas into production-ready web applications at lightning speed. Instead of getting bogged down by boilerplate code, I focus on system architecture, fluid user experiences, and delivering exceptional products.
 
-- 🤖 **Workflow:** Blending creativity with AI prompts to build modern applications.
-- 💡 **Philosophy:** Code is just a tool; the product and the "vibe" are what matter.
-- ⚡ **Current Focus:** Prompt engineering, full-stack AI development, and rapid prototyping.
+- 🤖 **Workflow:** Blending full-stack JS wizardry with AI prompts to build modern, scalable apps.
+- 💡 **Philosophy:** Code is just a tool; the product, architecture, and the "vibe" are what matter.
+- ⚡ **Current Focus:** Full-stack JavaScript development, rapid AI prototyping, and building high-impact portfolio projects.
 
 ### 🛠️ Tech Stack & Ecosystem
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,ai,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,ai,figma" />
   </a>
 </p>
 
