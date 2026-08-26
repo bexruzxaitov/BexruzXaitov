@@ -14,14 +14,14 @@ I am a **Data Science & AI Enthusiast** who leverages the power of artificial in
 ### 🛠️ Tech Stack & Ecosystem
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,anaconda,jupyter,pandas,numpy,git,github,vscode,ai,figma" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,anaconda,jupyter,pandas,numpy,docker,postgres,fastapi,git,github,vscode" />
   </a>
 </p>
 
 ### 💻 OS & Workstation
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,chrome,terminal" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,chrome,terminal" />
   </a>
 </p>
 
