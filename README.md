@@ -13,16 +13,12 @@ I am a **Data Science & AI Enthusiast** who leverages the power of artificial in
 
 ### 🛠️ Tech Stack & Ecosystem
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,anaconda,jupyter,pandas,numpy,docker,postgres,fastapi,git,github,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,pandas,numpy,docker,postgres,fastapi,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ### 💻 OS & Workstation
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,chrome,terminal" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=windows,linux,terminal&theme=dark" alt="OS" />
 </p>
 
 ### 📊 Vibe Analytics
