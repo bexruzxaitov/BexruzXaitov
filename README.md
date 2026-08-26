@@ -29,11 +29,4 @@ I am a **Data Science & AI Enthusiast** who leverages the power of artificial in
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BexruzXaitov&theme=gotham&hide_border=true&background=0d1117" alt="Bexruz's Streak Stats" />
 </p>
-### 📊 Vibe Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BexruzXaitov&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="Bexruz's GitHub Stats" />
-</p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=BexruzXaitov&theme=dark&hide_border=true&background=0d1117" alt="Bexruz's Streak Stats" />
-</p>
